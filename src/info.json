@@ -1,0 +1,12 @@
+{"students": [
+  {
+    "phoneNumber": "010-1111-1111",
+    "address": "서울특별시",
+    "name": "김모씨"
+  },
+  {
+    "phoneNumber": "010-2222-2222",
+    "address": "인천광역시",
+    "name": "나모씨"
+  }
+]}
